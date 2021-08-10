@@ -1,0 +1,13 @@
+/* This code is in relation to the tables in my HTML */
+table,
+td {
+    border: 1px solid #333;
+    padding: 4px
+
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
